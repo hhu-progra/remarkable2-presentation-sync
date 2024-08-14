@@ -10,6 +10,12 @@ I wanted to have the following set-up for lectures:
 
 I didn’t want to use a solution which involves VNC since this approach was less reliable in the past (using an Android tablet) and requires a somewhat more complicated set-up.
 
+## Requirements
+
+- ARM cross compiler for C
+- X Window System
+- Remarkable 2 connected via USB
+
 ## Set-up
 
 1. Compile the swipe input simulation software: `arm-linux-gnueabihf-gcc -o touch_simulator touch_simulator.c`
