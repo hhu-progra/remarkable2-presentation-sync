@@ -25,9 +25,9 @@ I didn’t want to use a solution which involves VNC since this approach was les
 
 ## Usage
 
-![](videos/pc.gif =600x)
+![](videos/pc.gif)
 
-![](videos/remarkable.gif =300x)
+![](videos/remarkable.gif)
 
 1. Connect the Remarkable with a usb cable.
 2. Copy your presentation notes to the Remarkable (e.g. using http://10.11.99.1/) and open them.
